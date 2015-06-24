@@ -1,10 +1,11 @@
-# Awesome PHP
+# 棒棒哒PHP 
 A curated list of amazingly awesome PHP libraries, resources and shiny things.
+### [ENGLISH](https://github.com/troubleman/awesome-php/blob/master/README.md)
 
-## Contributing
-Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md) for details.
+## 贡献
+详情请看 [CONTRIBUTING](https://github.com/troubleman/awesome-php/blob/master/CONTRIBUTING.md)
 
-## Table of Contents
+## 目录
 - [Awesome PHP](#awesome-php)
 	- [依赖管理](#依赖管理)
 	- [依赖管理的附加部分](#依赖管理的附加部分)
