@@ -6,7 +6,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
-	- [依赖](#dependency-management)
+	- [依赖](#依赖)
 	- [Dependency Management Extras](#dependency-management-extras)
 	- [Frameworks](#frameworks)
 	- [Framework Extras](#framework-extras)
