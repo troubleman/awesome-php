@@ -6,7 +6,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
-	- [Dependency Management](#dependency-management)
+	- [依赖](#dependency-management)
 	- [Dependency Management Extras](#dependency-management-extras)
 	- [Frameworks](#frameworks)
 	- [Framework Extras](#framework-extras)
@@ -78,7 +78,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [PHP Internals Reading](#php-internals-reading)
 - [Contributing](#contributing)
 
-## Dependency Management
+## 依赖
 *Libraries for dependency and package management.*
 
 * [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
